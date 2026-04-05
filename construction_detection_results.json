@@ -1,0 +1,123 @@
+[
+    {
+        "index": 1,
+        "page": 24,
+        "image_index": 1,
+        "object_name": "truck",
+        "coordinates": [166.21, 210.15, 194.4, 221.37],
+        "confidence": 0.9851
+    },
+    {
+        "index": 2,
+        "page": 26,
+        "image_index": 1,
+        "object_name": "truck",
+        "coordinates": [148.74, 296.69, 251.53, 363.37],
+        "confidence": 0.9547
+    },
+    {
+        "index": 3,
+        "page": 26,
+        "image_index": 1,
+        "object_name": "car",
+        "coordinates": [148.54, 296.05, 253.12, 362.83],
+        "confidence": 0.9616
+    },
+    {
+        "index": 8,
+        "page": 30,
+        "image_index": 2,
+        "object_name": "person",
+        "coordinates": [327.63, 76.43, 340.0, 107.18],
+        "confidence": 0.9894
+    },
+    {
+        "index": 9,
+        "page": 30,
+        "image_index": 2,
+        "object_name": "person",
+        "coordinates": [306.25, 82.78, 318.19, 115.14],
+        "confidence": 0.9956
+    },
+    {
+        "index": 15,
+        "page": 31,
+        "image_index": 1,
+        "object_name": "bench",
+        "coordinates": [284.77, 278.84, 397.38, 349.21],
+        "confidence": 0.8593
+    },
+    {
+        "index": 16,
+        "page": 31,
+        "image_index": 1,
+        "object_name": "person",
+        "coordinates": [546.24, 209.25, 555.81, 228.01],
+        "confidence": 0.9644
+    },
+    {
+        "index": 17,
+        "page": 31,
+        "image_index": 1,
+        "object_name": "person",
+        "coordinates": [544.96, 209.06, 554.87, 228.03],
+        "confidence": 0.9921
+    },
+    {
+        "index": 18,
+        "page": 31,
+        "image_index": 1,
+        "object_name": "person",
+        "coordinates": [518.2, 205.07, 527.92, 228.15],
+        "confidence": 0.9979
+    },
+    {
+        "index": 19,
+        "page": 31,
+        "image_index": 1,
+        "object_name": "car",
+        "coordinates": [560.54, 204.02, 596.82, 225.84],
+        "confidence": 0.9882
+    },
+    {
+        "index": 25,
+        "page": 35,
+        "image_index": 1,
+        "object_name": "truck",
+        "coordinates": [559.91, 181.7, 667.02, 269.69],
+        "confidence": 0.9823
+    },
+    {
+        "index": 26,
+        "page": 35,
+        "image_index": 2,
+        "object_name": "truck",
+        "coordinates": [560.53, 198.96, 667.11, 326.13],
+        "confidence": 0.9553
+    },
+    {
+        "index": 27,
+        "page": 35,
+        "image_index": 2,
+        "object_name": "person",
+        "coordinates": [639.14, 210.94, 666.76, 261.78],
+        "confidence": 0.9653
+    },
+    {
+        "index": 28,
+        "page": 36,
+        "image_index": 1,
+        "object_name": "person",
+        "coordinates": [364.19, 161.44, 371.02, 178.97],
+        "confidence": 0.9671
+    },
+    {
+        "index": 30,
+        "page": 37,
+        "image_index": 2,
+        "object_name": "person",
+        "coordinates": [532.73, 142.74, 666.85, 500.21],
+        "confidence": 0.9997
+    }
+]
+     
